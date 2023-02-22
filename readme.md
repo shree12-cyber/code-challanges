@@ -1,1 +1,1 @@
-this repo is for daily challanges on js
+add random colour to paragraph script using Javascript
